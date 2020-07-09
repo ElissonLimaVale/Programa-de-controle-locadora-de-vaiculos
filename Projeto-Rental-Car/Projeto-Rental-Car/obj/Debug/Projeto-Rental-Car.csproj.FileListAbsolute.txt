@@ -1,0 +1,15 @@
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\bin\Debug\Projeto-Rental-Car.exe.config
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\bin\Debug\Projeto-Rental-Car.exe
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\bin\Debug\Projeto-Rental-Car.pdb
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto-Rental-Car.csprojAssemblyReference.cache
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto_Rental_Car.Properties.Resources.resources
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto-Rental-Car.csproj.GenerateResource.cache
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto-Rental-Car.exe
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto-Rental-Car.pdb
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto_Rental_Car.PainelCentral.resources
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto_Rental_Car.CadastrarCliente.resources
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto_Rental_Car.consultar.resources
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto_Rental_Car.CadastrarVeiculo.resources
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto_Rental_Car.locacao.resources
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto_Rental_Car.Devolucao.resources
+C:\Users\jarvis\source\repos\Projeto-Rental-Car\Projeto-Rental-Car\obj\Debug\Projeto_Rental_Car.Verificacao.resources
