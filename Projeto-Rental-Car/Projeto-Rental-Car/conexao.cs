@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using System.Data;
 using System.Data.SqlClient;
+using System.Windows.Forms;
 
 namespace Projeto_Rental_Car
 {
@@ -14,8 +15,16 @@ namespace Projeto_Rental_Car
       
         public static SqlConnection Conect()
         {
-            SqlConnection conect = new SqlConnection("Data Source=(localdb)\"MSSQLLocalDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
-            return conect;
+            try
+            {
+                SqlConnection conect = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=Projeto;Integrated Security=True;Pooling=False");
+                return conect;
+            }
+            catch(SqlException ex)
+            {
+                MessageBox.Show("Error: " + ex);
+                return null;
+            }
         }
       
     }
